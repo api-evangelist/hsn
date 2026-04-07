@@ -1,7 +1,12 @@
 aid: hsn
-url: https://raw.githubusercontent.com/api-evangelist/hsn/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/hsn/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.hsn.com
+description: >-
+  HSN (Home Shopping Network) is an interactive multichannel retailer offering a wide
+  range of consumer products through television, mobile devices, and websites, owned
+  by Qurate Retail Group.
