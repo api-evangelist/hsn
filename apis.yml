@@ -4,7 +4,7 @@ description: >-
   HSN (Home Shopping Network) is an interactive multichannel retailer offering
   a wide range of consumer products through television, mobile devices, and
   websites, owned by Qurate Retail Group.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
