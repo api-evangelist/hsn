@@ -19,6 +19,8 @@ url: https://raw.githubusercontent.com/api-evangelist/hsn/refs/heads/main/apis.y
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hsn
   - type: Website
     name: HSN Website
     url: https://www.hsn.com
