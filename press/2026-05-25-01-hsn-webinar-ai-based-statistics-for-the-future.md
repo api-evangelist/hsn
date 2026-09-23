@@ -1,7 +1,9 @@
 ---
 title: 'HSN Webinar: AI-Based Statistics for the Future'
 url: https://bandungkota.bps.go.id/en/news/2025/09/29/1514/hsn-webinar--ai-based-statistics-for-the-future.html
-date: '2026-05-25'
+published: '2025-09-29'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"HSN" press release artificial intelligence'
 position: 1
 source: serpapi-google

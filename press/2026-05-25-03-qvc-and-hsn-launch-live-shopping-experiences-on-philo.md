@@ -1,7 +1,9 @@
 ---
 title: QVC and HSN Launch Live Shopping Experiences on Philo
 url: https://www.prnewswire.com/news-releases/qvc-and-hsn-launch-live-shopping-experiences-on-philo-302489988.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"HSN" press release artificial intelligence'
 position: 3
 source: serpapi-google
